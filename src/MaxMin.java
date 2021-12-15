@@ -1,5 +1,5 @@
 //Main Class
-public class ArrayFunctions {
+public class MaxMin {
 
     //Nested Static Class
     static class Number {
